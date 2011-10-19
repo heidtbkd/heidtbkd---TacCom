@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.dll" total="154" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-05-19" time="00:51:01">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.3620" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.9\bin\net-2.0" machine-name="HEIDTBKD-1" user="heidtbkd" user-domain="HEIDTBKD-1" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.dll" executed="True" result="Success" success="True" time="0.219" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TacComTest" executed="True" result="Success" success="True" time="0.219" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CharAbilityTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectAbilityName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectEffect" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectModifier" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCostAboveMaxCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCostBelowMinCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCostWithHalfCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCostWithMaxCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCostWithMinCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectMPCostWithZeroCost" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasCorrectTarget" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityHasEmptyAbilityEffects" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharAbilityTest.TestThatCharAbilityInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="CharacterTest" executed="True" result="Success" success="True" time="0.094" asserts="0">
+            <results>
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttackPower" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttackPowerAfterDeductingHalf" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttackPowerAfterDeductingNegativeOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttackPowerAfterDeductingOverAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttackPowerAfterDeductingZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeAgility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeAgilityAtMax" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeAgilityAtNine" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeAgilityAtOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeAgilityAtZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeArray" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeIntelligence" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeIntelligenceAtMax" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeIntelligenceAtNine" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeIntelligenceAtOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeIntelligenceAtZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeStrength" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeStrengthAtMax" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeStrengthAtNine" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeStrengthAtOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectAttributeStrengthAtZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectCritChanceAfterDeductingHalf" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectCritChanceAfterDeductingNegativeOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectCritChanceAfterDeductingZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectCritChangeAfterDeductingOverAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectCriticalChance" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectDodgeChance" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectDodgeChanceAfterDeductingHalf" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectDodgeChanceAfterDeductingNegativeOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectDodgeChanceAfterDeductingOverAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectDodgeChanceAfterDeductingZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectHitPoints" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectHitPointsAfterDeductingAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectHitPointsAfterDeductingHalf" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectHitPointsAfterDeductingOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectHitPointsAfterDeductingZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialAttackPower" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialAttributeAgility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialAttributeArray" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialAttributeIntelligence" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialAttributeStrength" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialCriticalChance" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialDodgeChance" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialHitPoints" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialMagicPoints" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectInitialSpellPower" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPoints" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPointsAfterDeductingAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPointsAfterDeductingHalf" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPointsAfterDeductingNegativeOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPointsAfterDeductingOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPointsAfterDeductingOverAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectMagicPointsAfterDeductingZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectSpellPower" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectSpellPowerAfterDeductingHalf" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectSpellPowerAfterDeductingNegativeOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectSpellPowerAfterDeductingOverAll" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasCorrectSpellPowerAfterDeductingZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasImageIsNull" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasZeroAttackPower" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasZeroCritChance" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasZeroDodgeChance" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterHasZeroSpellPower" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterIsDead" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatCharacterIsDeadAfterTakingDamage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatSetAbility1SetsTheAbilityListCorrectly" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatSetAbility2SetsTheAbilityListCorrectly" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatSetAbility3SetsTheAbilityListCorrectly" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharacterTest.TestThatSetAbility4SetsTheAbilityListCorrectly" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="CharClassTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasAClassName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasACorrectClassNameWhenBattleMage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasACorrectClassNameWhenMage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasACorrectClassNameWhenWarrior" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasAFirstAbility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasAFourthAbility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasASecondAbility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasAThirdAbility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassHasClassNameWhenNotValid" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.CharClassTest.TestThatCharClassInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="EffectTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+            <results>
+              <test-case name="TacComTest.EffectTest.TestThatEffectApplyEffectDecreasesDurationByOne" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectApplyEffectDoesNotDecreaseDurationAfterItIsZero" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectApplyEffectIsAppliedToDodge" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectApplyEffectIsAppliedToHealth" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasAttribute" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasCharacter" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasMagnitude" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasReset" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasResetIsFalse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasResetIsTrue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectHasTurnDuration" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatEffectInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EffectTest.TestThatSetTargetChangesTheTargetToTheCorrectTarget" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="EnvironmentTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="TacComTest.EnvironmentTest.TestThatEnvironmentHasWeatherAbility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EnvironmentTest.TestThatEnvironmentHasWeatherName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.EnvironmentTest.TestThatEnvironmentInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="GameBoadTest" executed="True" result="Success" success="True" time="0.063" asserts="0">
+            <results>
+              <test-case name="TacComTest.GameBoadTest.TestThatAllBobsDiesAtEndOfTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+              <test-case name="TacComTest.GameBoadTest.TestThatAllBobsDiesAtEndOfTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardChangesToOriginalTurnPerson" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardChangesTurn" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesFifthCharacterActionsDuringTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesFifthCharacterActionsDuringTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesFirstCharacterActionsDuringTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesFirstCharacterActionsDuringTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesFourthCharacterActionsDuringTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesFourthCharacterActionsDuringTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesSecondCharacterActionsDuringTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesSecondCharacterActionsDuringTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesSixthCharacterActionsDuringTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesSixthCharacterActionsDuringTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesThirdCharacterActionsDuringTurnTeam01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardDoesThirdCharacterActionsDuringTurnTeam02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharacters" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharactersFifthMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharactersFirstMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharactersFourthMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharactersSecondMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharactersSixthMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamCharactersThirdMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectFirstTeamName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharacters" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharactersFifthMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharactersFirstMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharactersFourthMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharactersSecondMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharactersSixthMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamCharactersThirdMember" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasCorrectSecondTeamName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasEffectInEffectList" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasEffectList" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasEmptyBackground" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasEnvironment" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasNoEffectAfterRemovingEffectinEffectList" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasTeamNames" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardHasTurn" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.GameBoadTest.TestThatGameBoardInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="ItemTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="TacComTest.ItemTest.TestThatItemHasCorrectName" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.ItemTest.TestThatItemHasCorrectType" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.ItemTest.TestThatItemHasNullAbility" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TacComTest.ItemTest.TestThatItemInitializes" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

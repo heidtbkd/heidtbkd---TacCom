@@ -1,0 +1,12 @@
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\bin\x86\Debug\TacCom.exe
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\bin\x86\Debug\TacCom.pdb
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\TacCom.exe
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\TacCom.pdb
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\bin\x86\Debug\TacCom.exe
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\bin\x86\Debug\TacCom.pdb
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\TacCom.exe
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1\obj\x86\Debug\TacCom.pdb

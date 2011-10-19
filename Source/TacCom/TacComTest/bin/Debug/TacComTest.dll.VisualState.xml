@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1076]TacComTest.CharacterTest.TestThatCharacterHasZeroAttackPower</TopNode>
+  <SelectedNode>[0-1161]C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1161]C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1162]TacComTest" Expanded="true" />
+    <Node UniqueName="[0-1041]TacComTest.CharacterTest" Expanded="true" />
+    <Node UniqueName="[0-1000]TacComTest.GameBoadTest" Expanded="true" />
+  </Nodes>
+</VisualState>

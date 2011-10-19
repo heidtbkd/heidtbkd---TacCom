@@ -1,0 +1,2 @@
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karl\TacCom\Source\TacCom\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache

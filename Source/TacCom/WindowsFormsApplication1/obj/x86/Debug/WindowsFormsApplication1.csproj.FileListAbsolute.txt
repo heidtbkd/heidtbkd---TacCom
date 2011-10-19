@@ -1,0 +1,34 @@
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GameUI.resources
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\TacCom.exe
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\TacCom.pdb
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\de\WindowsFormsApplication1.resources.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GameUI.de.resources
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GameUI.en.resources
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\de\WindowsFormsApplication1.resources.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\en\WindowsFormsApplication1.resources.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\de\WindowsFormsApplication1.resources.dll
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\TacCom.exe
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\bin\Debug\TacCom.pdb
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GameUI.resources
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GameUI.de.resources
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GameUI.en.resources
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\de\WindowsFormsApplication1.resources.dll
+C:\Users\Karl\TacCom\Source\TacCom\WindowsFormsApplication1\obj\x86\Debug\en\WindowsFormsApplication1.resources.dll

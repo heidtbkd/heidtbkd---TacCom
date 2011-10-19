@@ -1,0 +1,17 @@
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.pdb
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacCom.exe
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\TacCom.pdb
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\obj\Debug\TacComTest.dll
+C:\Documents and Settings\heidtbkd\TacCom\Source\TacCom\TacComTest\obj\Debug\TacComTest.pdb
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.dll
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\bin\Debug\TacComTest.pdb
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\bin\Debug\TacCom.exe
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\bin\Debug\TacCom.pdb
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\bin\Debug\nunit.framework.xml
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\obj\Debug\TacComTest.dll
+C:\Users\Karl\TacCom\Source\TacCom\TacComTest\obj\Debug\TacComTest.pdb
